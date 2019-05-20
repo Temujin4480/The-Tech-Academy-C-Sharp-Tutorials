@@ -1,0 +1,7 @@
+C:\Users\Ben\source\repos\TwentyOnePart4\TwentyOnePart4\bin\Debug\TwentyOnePart4.exe.config
+C:\Users\Ben\source\repos\TwentyOnePart4\TwentyOnePart4\bin\Debug\TwentyOnePart4.exe
+C:\Users\Ben\source\repos\TwentyOnePart4\TwentyOnePart4\bin\Debug\TwentyOnePart4.pdb
+C:\Users\Ben\source\repos\TwentyOnePart4\TwentyOnePart4\obj\Debug\TwentyOnePart4.csprojAssemblyReference.cache
+C:\Users\Ben\source\repos\TwentyOnePart4\TwentyOnePart4\obj\Debug\TwentyOnePart4.csproj.CoreCompileInputs.cache
+C:\Users\Ben\source\repos\TwentyOnePart4\TwentyOnePart4\obj\Debug\TwentyOnePart4.exe
+C:\Users\Ben\source\repos\TwentyOnePart4\TwentyOnePart4\obj\Debug\TwentyOnePart4.pdb
